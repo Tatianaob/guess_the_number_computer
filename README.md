@@ -1,1 +1,1 @@
-# guess_the_number_computer
+# guess_the_number_computer.py
